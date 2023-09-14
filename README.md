@@ -1,4 +1,4 @@
-# Project Name
+# Virtual Mouse and Volume
 
 A simple virtual mouse and volume controller built using Mediapipe and Opencv.
 
